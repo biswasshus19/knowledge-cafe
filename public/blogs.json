@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Lorem Ipsum Dolor Sit Amet",
+        "author": "John Doe",
+        "author_image": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "posted_date": "2024-03-30",
+        "reading_time": 10 ,
+        "hashtags": ["fiction", "LoremIpsum", "writing"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "Consectetur Adipiscing Elit",
+        "author": "Jane Smith",
+        "author_image": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "posted_date": "2024-03-31",
+        "reading_time": 8,
+        "hashtags": ["novel", "writing", "Lorem"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Sed Do Eiusmod Tempor",
+        "author": "Michael Johnson",
+        "author_image": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "posted_date": "2024-03-29",
+        "reading_time": 15,
+        "hashtags": ["sciencefiction", "technology", "future"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Ut Labore Et Dolore Magna",
+        "author": "Emily Brown",
+        "author_image": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "posted_date": "2024-03-28",
+        "reading_time": 12,
+        "hashtags": ["motivation", "lifelessons", "inspiration"]
+      }
+]
